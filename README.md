@@ -4,7 +4,7 @@ This project shows a modern website for a product home page to help users learn 
 
 ## Live Demo
 
-Experience the live website: [Product Landing Demo](https://maksym2493.github.io/nothing-landing/)
+Experience the live website: [Product Landing Demo](https://maksym-korchynskyi.github.io/nothing-landing/)
 
 ## Design Reference
 
